@@ -6,7 +6,7 @@ Data Analysis and Visualization (DS 320) project on predicting pollution levels 
 * Sneha Verma
 
 Tools used: 
-** Jupyter Notebook
+* Jupyter Notebook
 * Python
 * GitHub
 
@@ -16,3 +16,4 @@ Modules used:
 * Numpy
 * Matplotlib
 * Seaborn
+* Scipy
