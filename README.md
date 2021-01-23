@@ -16,3 +16,4 @@ Modules used:
 * Numpy
 * Matplotlib
 * Seaborn
+* Scipy
