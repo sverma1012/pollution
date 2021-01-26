@@ -2,13 +2,13 @@
 Data Analysis and Visualization (DS 320) project on predicting pollution levels based on air quality characteristics.
 
 ## Collaborators:
-* Jorania F. Alves
-* Sneha Verma
+* Jorania F. Alves :grey_exclamation:
+* Sneha Verma :wave:
 
 Tools used: 
-* Jupyter Notebook
-* Python
-* GitHub
+* Jupyter Notebook :notebook:
+* Python :snake:
+* GitHub :heart_eyes:
 
 Modules used:
 * Pandas
