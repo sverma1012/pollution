@@ -20,4 +20,4 @@ Data Analysis and Visualization (DS 320) project on predicting pollution levels 
 * Scipy
 
 **About the Dataset:**
-The dataset was found in [UCI Machine Learning] (https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data). The dataset contains hourly data about the PM 2.5 levels of the U.S. Embassy in Beijing.
+The dataset was found in [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data). The dataset contains hourly data about the PM 2.5 levels of the U.S. Embassy in Beijing.
