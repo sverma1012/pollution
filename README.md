@@ -1,5 +1,8 @@
-# pollution
+![Status Update](https://img.shields.io/badge/Status-Complete-brightgreen)
+
+# Pollution
 **Short Description:**<br />
+
 Data Analysis and Visualization (DS 320) project on predicting pollution levels based on air quality characteristics from a dataset collected in Beijing. Multiple linear and polynomial regression models were used to predict the PM 2.5 levels. 
 
 **Collaborators:**<br />
