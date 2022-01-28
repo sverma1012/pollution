@@ -1,4 +1,4 @@
-![Status Update](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Status Update](https://img.shields.io/badge/Status-Complete-brightgreen) ![GitHub top language](https://img.shields.io/github/languages/top/sverma1012/pollution?color=%23F37626&logo=Jupyter&style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/sverma1012/pollution?color=green)
 
 # Pollution
 **Short Description:**<br />
